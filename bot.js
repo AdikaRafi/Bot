@@ -16,13 +16,13 @@ var query = require('samp-query');
 //@audit Settings
 
 const botChar = "/"; // Bot prefix character
-let Samp_IP = "51.178.138.254";
-let Samp_Port = 7777;
-let Community_Tag ="WG";
+let Samp_IP = "51.79.197.132";
+let Samp_Port = 6666;
+let Community_Tag ="1UPSRP";
 
-let userToSubmitApplicationsTo = '710195458680684695';//Default Channel Id for User Applications
-let reportChannelID = '714432112031170562'; // Channel for the ingam reports
-let adminCmdsChannelID = '710195250911641741'; // Admin Cmds channel
+let userToSubmitApplicationsTo = '881866674729545765';//Default Channel Id for User Applications
+let reportChannelID = '881866674729545765'; // Channel for the ingam reports
+let adminCmdsChannelID = '881866674729545765'; // Admin Cmds channel
 let Bot_debug_mode = false;
 
 //_______________________________[APPLICATIONS]______________________________________________
